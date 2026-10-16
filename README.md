@@ -17,7 +17,7 @@ Netflix-style desktop UI. One double-clickable `EazyShows.exe`. No installer, no
 
 <br>
 
-<img src="docs/screenshots/hero.png" alt="EazyShows wordmark, the five sidebar pages, and a reminder that torrent files are untrusted." width="100%">
+<img src="docs/screenshots/social-preview.jpg" alt="EazyShows desktop UI: Movies poster grid, portable Windows exe, no installer." width="100%">
 
 </div>
 
