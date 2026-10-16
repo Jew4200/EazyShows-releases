@@ -1,0 +1,7 @@
+# This repo is landing page + GitHub Release assets only.
+# Never commit the built exe or anyone's sidecar data.
+*.exe
+*.sha256
+EazyShowsData/
+Thumbs.db
+Desktop.ini
